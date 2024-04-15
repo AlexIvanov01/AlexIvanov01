@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### My experience spans a diverse range of IT fields, including working with integrated circuits, solving optimization problems and algorithms with low-level code, building high-level components, designing desktop and mobile applications, and other software and hardware engineering challenges. My experience includes synthesizing and analyzing algorithms with C and C++ languages to optimize productivity and efficiency in software development projects, as well as working with object-oriented programming with C# in accordance with industry standards for layout and code writing. I am currently focusing on: learning technologies to design and implement microservice architecture using technologies such as Docker and Kubernetes and building scalable and resilient distributed systems for the development of modern web applications using technologies such as PHP and Laravel. Despite my specific background in software development, I am also interested in other areas of IT for potential career development.
 <!--
 **AlexIvanov01/AlexIvanov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
