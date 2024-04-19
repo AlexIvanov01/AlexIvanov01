@@ -12,7 +12,7 @@ I am student at Technical university of Sofia, Bachelor's degree on Computer and
 ## 📫 How to reach me:
 
 - Email: alex_ivanov@outlook.com
-- LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9](https://www.linkedin.com/in/alex-ivanov-4349051bb/)
+- LinkedIn: https://www.linkedin.com/in/alex-ivanov-4349051bb/
 <!--
 **AlexIvanov01/AlexIvanov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
