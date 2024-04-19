@@ -1,4 +1,18 @@
-## I have a range of experience in IT areas. This includes working with integrated circuits, solving optimization problems and algorithms using low level code, creating high level components developing desktop and mobile applications and tackling software and hardware engineering challenges. In my past roles I have focused on synthesizing and analyzing algorithms using C and C++ to enhance productivity and efficiency in software development projects. Additionally I have worked with object oriented programming in C# following industry standards for code structure. Currently my main focus is on learning technologies to design microservice architecture using tools like Docker and Kubernetes, and building scalable distributed systems for modern web applications using PHP and Laravel. Although my background is primarily in software development I am open to exploring areas, within the IT field for career growth opportunities.
+# Greetings 👋
+
+I am student at Technical university of Sofia, Bachelor's degree on Computer and Software engineering, currently developing my skills in various backend and frontend technologies.
+
+## 🌱 I’m currently learning:
+
+- HTML, CSS, Javascript
+- Docker and Cubernetes
+- PHP and Lavel
+- React
+
+## 📫 How to reach me:
+
+- Email: alex_ivanov@outlook.com
+- LinkedIn: https://www.linkedin.com/in/diptesh-choudhuri-0647501b9](https://www.linkedin.com/in/alex-ivanov-4349051bb/)
 <!--
 **AlexIvanov01/AlexIvanov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
