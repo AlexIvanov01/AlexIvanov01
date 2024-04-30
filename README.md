@@ -6,6 +6,7 @@ I am student at Technical university of Sofia, Bachelor's degree on Computer and
 
 - HTML, CSS, Javascript
 - Docker and Cubernetes
+- .NET
 - PHP and Laravel
 - React
 
