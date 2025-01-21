@@ -1,6 +1,6 @@
 # Greetings 👋
 
-I am student at Technical university of Sofia, Bachelor's degree on Computer and Software engineering, currently developing my skills in various backend and frontend technologies and finishing my Master's degree in the same field.
+I am student at Technical university of Sofia, Master's degree on Computer and Software engineering, currently developing my skills in various backend and frontend technologies.
 
 ## 📫 How to reach me:
 
