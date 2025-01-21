@@ -2,13 +2,6 @@
 
 I am student at Technical university of Sofia, Bachelor's degree on Computer and Software engineering, currently developing my skills in various backend and frontend technologies.
 
-## 🌱 I’m currently learning:
-
-- HTML, CSS, Javascript
-- Docker and Cubernetes
-- .NET
-- React
-
 ## 📫 How to reach me:
 
 - Email: alex_ivanov@outlook.com
